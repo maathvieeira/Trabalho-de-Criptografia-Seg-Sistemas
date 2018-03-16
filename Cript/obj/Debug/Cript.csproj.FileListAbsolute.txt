@@ -1,0 +1,19 @@
+C:\Users\Matheus Vieira\Desktop\Projeto Criptografia\Cript\bin\Debug\Cript.exe.config
+C:\Users\Matheus Vieira\Desktop\Projeto Criptografia\Cript\bin\Debug\Cript.exe
+C:\Users\Matheus Vieira\Desktop\Projeto Criptografia\Cript\bin\Debug\Cript.pdb
+C:\Users\Matheus Vieira\Desktop\Projeto Criptografia\Cript\obj\Debug\Cript.csprojResolveAssemblyReference.cache
+C:\Users\Matheus Vieira\Desktop\Projeto Criptografia\Cript\obj\Debug\Cript.Form1.resources
+C:\Users\Matheus Vieira\Desktop\Projeto Criptografia\Cript\obj\Debug\Cript.Properties.Resources.resources
+C:\Users\Matheus Vieira\Desktop\Projeto Criptografia\Cript\obj\Debug\Cript.csproj.GenerateResource.Cache
+C:\Users\Matheus Vieira\Desktop\Projeto Criptografia\Cript\obj\Debug\Cript.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Vieira\Desktop\Projeto Criptografia\Cript\obj\Debug\Cript.exe
+C:\Users\Matheus Vieira\Desktop\Projeto Criptografia\Cript\obj\Debug\Cript.pdb
+C:\Solution\Projeto Criptografia\Cript\bin\Debug\Cript.exe.config
+C:\Solution\Projeto Criptografia\Cript\obj\Debug\Cript.exe
+C:\Solution\Projeto Criptografia\Cript\obj\Debug\Cript.pdb
+C:\Solution\Projeto Criptografia\Cript\bin\Debug\Cript.exe
+C:\Solution\Projeto Criptografia\Cript\bin\Debug\Cript.pdb
+C:\Solution\Projeto Criptografia\Cript\obj\Debug\Cript.csprojResolveAssemblyReference.cache
+C:\Solution\Projeto Criptografia\Cript\obj\Debug\Cript.Form1.resources
+C:\Solution\Projeto Criptografia\Cript\obj\Debug\Cript.Properties.Resources.resources
+C:\Solution\Projeto Criptografia\Cript\obj\Debug\Cript.csproj.GenerateResource.Cache
